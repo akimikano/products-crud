@@ -1,0 +1,1 @@
+from src.infrastructure.webserver.routers.product_router import router as product_router
