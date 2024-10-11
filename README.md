@@ -66,5 +66,40 @@ API Documentation http://localhost:8000/api/docs/swagger.yml
 
 <br>
 
+Endpoints
 ![](./img/1.png)
+
+<br>
+
+Filters
 ![](./img/2.png)
+
+<br>
+
+Create
+![](./img/post.png)
+
+<br>
+
+Update
+![](./img/put.png)
+
+<br>
+
+Delete
+![](./img/del.png)
+
+<br>
+
+List with filters
+![](./img/list.png)
+
+<br>
+
+Detail
+![](./img/detail.png)
+
+<br>
+
+Not found
+![](./img/notfound.png)
